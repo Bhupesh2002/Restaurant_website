@@ -1,0 +1,230 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "image": "https://t3.ftcdn.net/jpg/06/36/30/26/240_F_636302609_Tb1JtDTQ4zawO0ub6L2fHzlrW586f9tr.jpg",
+      "name": "Cheese Pizza",
+      "description": "Classic cheese pizza with tomato sauce and mozzarella.",
+      "price": 230,
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "image": "https://t4.ftcdn.net/jpg/09/55/90/45/240_F_955904576_UGdaB4Gp6iIPdwln24uZtqw7X7mrNR6z.jpg",
+      "name": "Beef Burger",
+      "description": "Juicy beef patty with lettuce, tomato, and special sauce.",
+      "price": 250,
+      "rating": 4.7
+    },
+    {
+      "id": "3",
+      "image": "https://t3.ftcdn.net/jpg/11/98/40/72/240_F_1198407213_lFQR5MVccYHyg06mDFrVyRFxoX4f20uL.jpg",
+      "name": "Creamy Alfredo Pasta",
+      "description": "Pasta tossed in rich creamy Alfredo sauce with parmesan.",
+      "price": 200,
+      "rating": 4.2
+    },
+    {
+      "id": "4",
+      "image": "https://t4.ftcdn.net/jpg/10/41/00/25/240_F_1041002586_GAoNGoMykKgYmJqM5nVtCcLokPpofq4G.jpg",
+      "name": "Butter Chicken",
+      "description": "Tender chicken in creamy tomato gravy with spices..",
+      "price": 180,
+      "rating": 4
+    },
+    {
+      "id": "5",
+      "image": "https://t4.ftcdn.net/jpg/10/41/94/71/240_F_1041947185_1BN9lbpUcO2iAYqVgpLFDFAN3TAhyWKJ.jpg",
+      "name": "Grill Chicken",
+      "description": "Juicy, smoky grilled chicken with bold spices and tender texture.",
+      "price": 250,
+      "rating": 4.8
+    },
+    {
+      "id": "6",
+      "image": "https://t4.ftcdn.net/jpg/10/84/83/83/240_F_1084838364_3u2KkBqxGicTxbulobrwf8tKv0xgsozh.jpg",
+      "name": "Spicy Ramen",
+      "description": "Hot and spicy ramen noodles with soft-boiled egg.",
+      "price": 150,
+      "rating": 4.3
+    },
+    {
+      "id": "7",
+      "image": "https://t4.ftcdn.net/jpg/04/36/36/57/240_F_436365754_z3i5Es0sFmZuLY6GZIzdiU01v9HqpGZe.jpg",
+      "name": "Chicken Biryani",
+      "description": "Aromatic basmati rice with tender chicken and spices.",
+      "price": 160,
+      "rating": 4.6
+    },
+    {
+      "id": "8",
+      "image": "https://t4.ftcdn.net/jpg/02/68/27/63/240_F_268276360_7rumYMlomA3chN2tQsUdNYRLFSR0ed7b.jpg",
+      "name": "Grilled Sandwich",
+      "description": "Grilled bread with cheese, tomato, and onion stuffing.",
+      "price": 165,
+      "rating": 4.1
+    },
+    {
+      "id": "9",
+      "image": "https://t3.ftcdn.net/jpg/07/96/65/40/240_F_796654021_cMMLwm8YGNVbnupEvZQOyGDD42sFBfAG.jpg",
+      "name": "Cheese Burger",
+      "description": "Beef patty with cheese, lettuce, and tomato",
+      "price": 135,
+      "rating": 4.4
+    },
+    {
+      "id": "10",
+      "image": "https://t3.ftcdn.net/jpg/03/29/88/98/240_F_329889859_EKR8zBGeZzLEzNcRk1f352ZaCxf86J0A.jpg",
+      "name": "French Fries",
+      "description": "Golden crispy fries served with ketchup.",
+      "price": 100,
+      "rating": 4
+    },
+    {
+      "id": "11",
+      "image": "https://t3.ftcdn.net/jpg/06/16/85/60/240_F_616856040_zCvPMQkPFOWsVb3Hxo7mQUYzlzciFCZs.jpg",
+      "name": "Veg Momos",
+      "description": "Steamed dumplings stuffed with mixed vegetables.",
+      "price": 90,
+      "rating": 4.2
+    },
+    {
+      "id": "12",
+      "image": "https://t3.ftcdn.net/jpg/08/50/71/06/240_F_850710603_R8SALZ23StL1ELEUFJ2SGUqLZUEVglsl.jpg",
+      "name": "Vanilla Ice Cream",
+      "description": "Creamy vanilla ice cream with chocolate drizzle.",
+      "price": 40,
+      "rating": 4.7
+    },
+    {
+      "id": "13",
+      "image": "https://t3.ftcdn.net/jpg/10/41/98/82/240_F_1041988225_7l0TV82rzdnxl90ZehG6Mzu7mNJmAVxV.jpg",
+      "name": "Pancakes",
+      "description": "Fluffy pancakes served with maple syrup and butter.",
+      "price": 60,
+      "rating": 4.3
+    },
+    {
+      "id": "14",
+      "image": "https://t3.ftcdn.net/jpg/09/21/54/46/240_F_921544681_w6pGvnLFKlsRsMjQ3nzQuNHm5hSjPNdf.jpg",
+      "name": "Aloo Paratha",
+      "description": "Flatbread stuffed with spiced mashed potatoes.",
+      "price": 80,
+      "rating": 4.1
+    },
+    {
+      "id": "15",
+      "image": "https://t3.ftcdn.net/jpg/04/04/48/60/240_F_404486093_uS1dUsE2EirKM8nmq9vdaiTDtARbGbW1.jpg",
+      "name": "Fish Curry",
+      "description": "Fresh fish simmered in coconut-based spicy gravy.",
+      "price": 160,
+      "rating": 4.4
+    },
+    {
+      "id": "16",
+      "image": "https://t3.ftcdn.net/jpg/03/31/85/62/240_F_331856206_zx0imju3Z3Y4b28mO3R6RKvMQVg8f72U.jpg",
+      "name": "Chicken Wings",
+      "description": "Fried wings tossed in spicy tangy sauce",
+      "price": 140,
+      "rating": 4
+    },
+    {
+      "id": "17",
+      "image": "https://t3.ftcdn.net/jpg/10/72/33/10/240_F_1072331075_3m3GrlQ3aGuXQpsLx5NZW5DS4HMGsOTg.jpg",
+      "name": "Vegetable Pulao",
+      "description": " Fragrant basmati rice with seasoned mixed vegetables.",
+      "price": 130,
+      "rating": 4.6
+    },
+    {
+      "id": "18",
+      "image": "https://t3.ftcdn.net/jpg/03/22/27/48/240_F_322274814_wYsSyFAUD5RrPaVJNm9Mb9xxnsq4QG4C.jpg",
+      "name": "Masala Dosa",
+      "description": "Crispy rice crepe filled with spiced mashed potatoes",
+      "price": 125,
+      "rating": 4.5
+    },
+    {
+      "id": "19",
+      "image": "https://t4.ftcdn.net/jpg/06/97/15/01/240_F_697150180_KaIMqfq3f5bM17dWXU3eKXvcwrDN9nwY.jpg",
+      "name": "Paneer Tikka",
+      "description": "Grilled cottage cheese marinated in yogurt and spices",
+      "price": 135,
+      "rating": 4.7
+    },
+    {
+      "id": "20",
+      "image": "https://t3.ftcdn.net/jpg/04/02/12/80/240_F_402128075_06J9Y69ScRrYKFpQr1PAH0L7YziB83ry.jpg",
+      "name": "Idli & Sambar",
+      "description": "Soft idlis served with hot sambar and chutney.",
+      "price": 45,
+      "rating": 4.2
+    },
+    {
+      "id": "21",
+      "image": "https://t3.ftcdn.net/jpg/13/61/06/50/240_F_1361065055_qiGRdxZFNf8Eolpzf5Hr0d60DiH7Qukc.jpg",
+      "name": "Prawn Fry",
+      "description": "Crispy fried prawns tossed in spicy South Indian masala",
+      "price": 190,
+      "rating": 4.2
+    }
+  ],
+  "contact": [
+    {
+      "id": "4c68",
+      "name": "gokul",
+      "email": "gokulbhupesh@gmail.com",
+      "message": "this is awesome!!!"
+    },
+    {
+      "id": "0c4a",
+      "name": "geetha",
+      "email": "geetha@gmail.com",
+      "message": "your restaurant is wonderful !!!!"
+    },
+    {
+      "id": "3069",
+      "name": "rajan",
+      "email": "rajan@gmail.com",
+      "message": "hello!!!"
+    },
+    {
+      "id": "b643",
+      "name": "rajan",
+      "email": "rajan@gmail.com",
+      "message": "excellent restaurant!!"
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "Head Chef",
+      "image": "images/john.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Emma Smith",
+      "role": "Sous Chef",
+      "image": "images/emma.jpg"
+    },
+    {
+      "id": 3,
+      "name": "David Lee",
+      "role": "Restaurant Manager",
+      "image": "images/david.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sophia Wilson",
+      "role": "Waitress",
+      "image": "images/sophia.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Unknown Member",
+      "role": "Trainee Chef",
+      "image": ""
+    }
+  ]
+}

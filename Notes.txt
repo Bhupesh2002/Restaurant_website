@@ -1,0 +1,14 @@
+Restaurant-website using react js
+
+
+Navbar – Top navigation bar
+
+Home – Landing section with welcome message
+
+Menu – Food items listed in cards
+
+About – Info about the restaurant
+
+Contact – Simple contact form
+
+Footer – Bottom section with links/info
