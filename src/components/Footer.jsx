@@ -20,18 +20,17 @@ const Footer = () => {
         <hr className="my-3 border-light" />
 
         <div>
-          <h4 className="text-warning me-2" style={ { fontFamily:"'Lobster', cursive" } }>Follow Us</h4>
-          <a href="#" className="text-light me-3">
+          <h4 className="text-warning" style={ { fontFamily:"'Lobster', cursive" } }>Follow Us</h4>
+          <a href="https://www.facebook.com" className="text-light m-2">
             <i className="fab fa-facebook fa-lg"></i>
           </a>
-          <a href="#" className="text-light me-3">
+          <a href="https://www.instagram.com" className="text-light m-2">
             <i className="fab fa-instagram fa-lg"></i>
           </a>
-          <a href="#" className="text-light me-3">
-            <i className="fab fa-twitter fa-lg"></i>
+          <a href="https://www.github.com" className="text-light m-2">
+            <i className="fab fa-github fa-lg"></i>
           </a>
         </div>
-
       </div>
     </footer>
   );

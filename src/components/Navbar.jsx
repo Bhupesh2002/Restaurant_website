@@ -1,14 +1,8 @@
 import React from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import RestaurantIcon from '@mui/icons-material/Restaurant';
-import { Navigate } from "react-router-dom";
-// import { Button } from "bootstrap";
-import { FaOpencart } from "react-icons/fa";
 
 let Navbar = ()=> {
-
-  let navigate = useNavigate();
-
     return(
         <nav className="navbar navbar-expand-lg navbar-dark p-1">
         <div className="container">
@@ -33,13 +27,6 @@ let Navbar = ()=> {
               <li className="nav-item mx-2">
                 <Link className="nav-link underline-hover" to="/contact">CONTACT</Link>
               </li>
-              {/* <li className="nav-item mx-2" tabIndex={0}>
-                <span className="nav-link text-light" 
-                style={ { display:"flex",alignItems:"center",cursor:"pointer" } } 
-                 onClick={ ()=> navigate('/cart')}>
-                  <FaOpencart  size={20}/>
-                </span>
-              </li> */}
             </ul>
           </div>
         </div>

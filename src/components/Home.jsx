@@ -18,7 +18,6 @@ let Home = () => {
         <div className="row align-items-center">
           <div className="col-md-6 text-center text-md-start mb-4">
           <h2 className="about-title">About <span className="text-warning">Tasty Nest</span></h2>
-          
           <p className="about-text">
             At Tasty Nest, we serve love on a plate. Whether you're craving comforting classics or exploring 
             new flavors,our chefs bring passion and creativity to every dish. Step in and experience food like never before.

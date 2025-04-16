@@ -1,14 +1,5 @@
-/* body{
-  background-image: url('/images/home-background.jpg');
-  background-size: cover;
-  background-position: center;
-  font-family: 'Poppins, sans-serif';
-   backdrop-filter: blur(2px); 
-  overflow-x: hidden;
-}  */
-
 .navbar{
-   background:#888682;
+   background:	#FF7518;
 
 }
 .underline-hover {
@@ -61,7 +52,7 @@
 
   .about-img {
     width: 45%;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.8);
   }
 
   .menu-wrapper{
@@ -71,7 +62,7 @@
   }
 
   .contact-wrapper{
-    background: url("/images/contact-background.webp");
+    background: url("/images/contact-background.jpeg");
     display: flex;
     align-items: center;
     justify-content: center;
@@ -82,7 +73,7 @@
     background-color:whitesmoke; 
   }
 
-  .menu-wrapper , .contact-wrapper, .about-wrapper{
+  .menu-wrapper , .contact-wrapper{
     min-height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;

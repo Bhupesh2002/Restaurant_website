@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { Grid, Paper, TextField, Typography, Button, Box, Alert } from '@mui/material';
 
 let Contact = () => {
-  // let navigate = useNavigate();
   let [formData, setFormData] = useState({name: '',email: '',message: ''});
 
   let [status, setStatus] = useState('');
@@ -46,10 +45,11 @@ let Contact = () => {
   };
 
   return (
+    <>
     <div className='contact-wrapper'>
       <Grid container justifyContent="center" >
         <Paper elevation={3} sx={{ padding: 5, width:"100%" }} style={ { backgroundColor:"whitesmoke",borderRadius:"15px",opacity:"0.9"} }>
-          <Typography variant="h4" sx={{ mb:4 }} align="center">Contact Us</Typography>
+          <Typography variant="h4" sx={{ mb:4 }} color='orange' align="center">Contact Us</Typography>
             {status && (
               <Alert severity={status.includes("successfully") ? "success" : "error"} sx={{ mb: 2 }}>
                 {status}
@@ -82,11 +82,15 @@ let Contact = () => {
                   variant="outlined"
                   fullWidth
                   required/>
-                <Button type="submit" variant="contained" color="secondary" fullWidth>Send</Button>
+                <Button type="submit" variant="contained"  
+                sx={{backgroundColor: '#FF8C00',
+                '&:hover': { backgroundColor: '#e67600'}}}
+                fullWidth>Send</Button>
               </Box>
             </Paper>
           </Grid>
-        </div>
+        </div>  
+    </>
      );
   }
 
