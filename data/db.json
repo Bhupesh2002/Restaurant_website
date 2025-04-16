@@ -194,37 +194,5 @@
       "email": "rajan@gmail.com",
       "message": "excellent restaurant!!"
     }
-  ],
-  "team": [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "role": "Head Chef",
-      "image": "images/john.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Emma Smith",
-      "role": "Sous Chef",
-      "image": "images/emma.jpg"
-    },
-    {
-      "id": 3,
-      "name": "David Lee",
-      "role": "Restaurant Manager",
-      "image": "images/david.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Sophia Wilson",
-      "role": "Waitress",
-      "image": "images/sophia.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Unknown Member",
-      "role": "Trainee Chef",
-      "image": ""
-    }
   ]
 }
