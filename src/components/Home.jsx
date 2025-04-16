@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Footer from './Footer';
 
 
-const Home = () => {
+let Home = () => {
   return (
       <>
       <section className="home-section d-flex align-items-center justify-content-center text-center text-white">
