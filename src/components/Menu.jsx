@@ -26,9 +26,7 @@ const Menu = () => {
   let { menuItem,loading,error } = useFetch("http://localhost:5000/menu");
 
 
-  // let addToCart = (id) =>{
-  //   navigate(`/cart/${id}` )
-  // }
+
 
   useEffect(() => {
     if (error && intervalId === null) {
